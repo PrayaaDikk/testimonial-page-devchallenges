@@ -71,8 +71,9 @@ body {
       position: absolute;
       background-color: #fff;
       padding: 1rem 2rem;
-      border-radius: 20px;
+      border-radius: 10px;
       width: fit-content;
+      filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.05));
 
       .title {
         display: flex;
